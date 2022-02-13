@@ -11,5 +11,7 @@ My, name is Abraham Ebijuni and I am 16 years old.
 I'm a web developer/designer who is skilled in HTML, CSS, JavaScript, Node.js and some frameworks.
 
 ## ⚡My Projects
-🎯 [Number Guessing Game](https://ademola1235/number-guessing-game)
+🎯 [Number Guessing Game](https://ademola1235.github.io/number-guessing-game)
+
+🎯 [Colour Guessing Game](https://ademola1235.github.io/colour-guessing-game)
 
