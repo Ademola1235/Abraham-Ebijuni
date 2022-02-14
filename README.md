@@ -13,5 +13,5 @@ I'm a web developer/designer who is skilled in HTML, CSS, JavaScript, Node.js an
 ## ⚡My Projects
 🎯 [Number Guessing Game](https://ademola1235.github.io/number-guessing-game)
 
-🎯 [Colour Guessing Game](https://ademola1235.github.io/colour-guessing-game)
+🎯 [Colour Guessing Game](https://ademola1235.github.io/Colour-guessing-game)
 
